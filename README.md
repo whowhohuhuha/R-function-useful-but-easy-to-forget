@@ -14,3 +14,5 @@
     expand two vectors to a map: expand.grid()
 ###7.
     sum up row elements: rowSums()
+###8. 
+    reverse order of a vector: rev()
